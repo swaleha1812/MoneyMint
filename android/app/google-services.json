@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958852218542",
+    "project_id": "moneymint-60de1",
+    "storage_bucket": "moneymint-60de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958852218542:android:996ffa4498bf2639cbf73f",
+        "android_client_info": {
+          "package_name": "com.example.web3_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsVK89QzrOSoE_1lardBq2xhUyenuiyFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
